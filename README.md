@@ -1,5 +1,5 @@
 # Lambda - Exercise 3
-This is a little project that shows the instantiation works with Predicate receiving a lambda function inside of a method.
+This is a little project that shows how the instantiation works with Predicate receiving a lambda function inside of a method.
 
 Technologies
 ----------------------------------------
